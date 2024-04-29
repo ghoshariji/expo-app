@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.arijit_12.client"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ddc7ef30-197c-4792-b644-46a703eea32a"
+      }
     }
   }
 }
